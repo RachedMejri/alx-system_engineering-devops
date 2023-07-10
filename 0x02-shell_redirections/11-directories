@@ -1,0 +1,2 @@
+#i/bin/bash
+find . -minddepth 1 -type -d | wc -l
